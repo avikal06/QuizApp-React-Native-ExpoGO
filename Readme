@@ -1,0 +1,26 @@
+# Quiz App
+
+This is a mobile quiz application built using React Native.
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+- Node.js
+  ```sh
+  # To install Node.js, visit https://nodejs.org/
+
+To start the app the folder in respective IDE
+COMMANDS : ["npm install", "npx expo start"]
+
+
+Firebase Setup
+Create a Firebase project at https://console.firebase.google.com/
+Enable Firestore database and authentication in your Firebase project.
+Copy the Firebase config object from your Firebase project settings.
+into firebaseConfig.js file in the src directory of this project.
+
